@@ -1,2 +1,2 @@
 # dataScienceinR
-Training data with common classification algorithms used in data science. Coded in R, using .csv data files.
+Worked with .csv training data to implement common classification algorithms such as KNN, Naive Bayes and Linear Regression . Coded in R.
